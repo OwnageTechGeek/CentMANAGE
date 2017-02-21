@@ -1,0 +1,4 @@
+## Maintains a CentOS image, and creates a daily log file that is sent to the central server.
+
+/var/printout.sh >> /tmp/printout
+
